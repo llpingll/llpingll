@@ -48,6 +48,15 @@ Beyond mastering the core technologies, I thrive on exploring cutting-edge innov
       />
       <br /><strong>Tailwind</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        width="48"
+        height="48"
+        alt="Material UI"
+      />
+      <br /><strong>Material UI</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
@@ -85,6 +94,15 @@ Beyond mastering the core technologies, I thrive on exploring cutting-edge innov
         alt="PostgreSQL"
       />
       <br /><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        width="48"
+        height="48"
+        alt="Firebase"
+      />
+      <br /><strong>Firebase</strong>
     </td>
   </tr>
 </table>
