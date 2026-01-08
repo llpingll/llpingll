@@ -1,7 +1,7 @@
 # 👋 Hey there
 
 <div align="justify">
-Full-stack developer focused on building interactive, production-ready web applications with modern JavaScript technologies. I work primarily with React, Node.js, and TypeScript, and have experience integrating AI features and designing secure serverless and conventional backends. My background in design engineering strongly influences how I approach software — with an emphasis on structure, reliability, and long-term maintainability. </div>
+My name is Lui, I'm a full-stack developer focused on building interactive, production-ready web applications with modern JavaScript technologies. I work primarily with React, Node.js, and TypeScript, and have experience integrating AI features and designing secure serverless and conventional backends. My background in design engineering strongly influences how I approach software — with an emphasis on structure, reliability, and long-term maintainability. </div>
 <br/>
 <a href="mailto:lui.duarte1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/lui-duarte-8a8a4085/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
