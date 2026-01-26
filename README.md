@@ -57,7 +57,7 @@ My name is Lui, I'm a full-stack developer focused on building interactive, end 
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg"
         width="48"
         height="48"
         alt="Three.js"
