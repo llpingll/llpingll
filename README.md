@@ -55,6 +55,15 @@ My name is Lui, I'm a full-stack developer focused on building interactive, end 
       />
       <br /><strong>Material UI</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg"
+        width="48"
+        height="48"
+        alt="Three.js"
+      />
+      <br /><strong>Three.js</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
@@ -101,6 +110,15 @@ My name is Lui, I'm a full-stack developer focused on building interactive, end 
         alt="Firebase"
       />
       <br /><strong>Firebase</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+        width="48"
+        height="48"
+        alt="Docker"
+      />
+      <br /><strong>Docker</strong>
     </td>
   </tr>
 </table>
